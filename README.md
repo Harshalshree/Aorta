@@ -7,5 +7,5 @@ Hackday Hackathon Project (winner of the first prize)
 - ###### Notifies the doctor anytime the patient submits a report with a critical value for any parameter 
 
 #### Props go to:
-  - ##### Pratik and Harshal for their ML models
-  - ##### Me and Siddharth for the backend and frontend creation
+  - ##### Me And Pratik for our ML models
+  - ##### Rishikesh and Siddharth for the backend and frontend creation
