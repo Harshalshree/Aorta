@@ -7,5 +7,6 @@ Hackday Hackathon'19 Winners!
 - ###### Notifies the doctor anytime the patient submits a report with a critical value for any parameter 
 
 #### Props go to:
-  - ##### Me And Pratik for our ML models
-  - ##### Rishikesh and Siddharth for the backend and frontend creation
+  - ##### ML Model - Me and Pratik
+  - ##### Web Frontend - Me, Rishi and Siddharth
+  - ##### Web Backend - Rishi and Siddharth
